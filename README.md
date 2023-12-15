@@ -42,15 +42,21 @@ I am a Full-stack Web Developer who is exploring Cloud while facilitating the wo
 
 ---
 
+### You can find in me in the web 🌍
+[<img align="left" alt="Niraj Shrestha | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Niraj Shrestha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Niraj Shrestha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
+
+
+---
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
+:star: From [Niraj Shrestha](https://github.com/NirajXtha)
 
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+[youtube]: https://www.youtube.com/@nepalisharingan2827/
+[instagram]: https://www.instagram.com/n_shrestha76/
+[linkedin]: https://www.linkedin.com/in/NirajXtha/
