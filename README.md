@@ -12,7 +12,7 @@ I am a Full-stack Web Developer who is exploring Cloud while facilitating the wo
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=react&logoColor=white"> React JS
  
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"/>
+ :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
   
  💬 Ask me about Full Stack Web Development and any Tech-related stuff.
 
